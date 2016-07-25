@@ -1,0 +1,6 @@
+Error,
+	java.lang.ClassNotFoundException: com.sun.jersey.spi.container.servlet.ServletContainer
+
+	Solution,
+	included  jersey-core-1.1.4.1.jar
+	
